@@ -1,0 +1,10 @@
+.border {
+    border: 10px solid #3f0137;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    width: fit-content;
+    margin: auto;
+    box-shadow: 10px 10px 10px black;
+}
